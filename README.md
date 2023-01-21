@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Alura Voz
 
 Rápida descrição do objetivo de fazer esse projeto
 
